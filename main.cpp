@@ -11,7 +11,6 @@ int main(){
     float nota_parcial = 0;
     float nota_laboratorio = 0;
 
-
     cout << "Hello World!" << endl;
 
     for (int i = 0; i <numero_estudiantes; i++){
@@ -37,10 +36,9 @@ int main(){
             cin >> nota_laboratorio;
             promedio_laboratorios += nota_laboratorio;
 
-
-
         }
 
     }
+
     return 0;
 }
