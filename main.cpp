@@ -39,6 +39,7 @@ int main(){
         }
 
     }
+    c0ut << "Ingrese el numero " <<  endl;
 
     return 0;
 }
