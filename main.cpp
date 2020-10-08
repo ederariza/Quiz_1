@@ -27,14 +27,6 @@ int main(){
 
         }
 
-        int contador_laboratorios = 0;
-        int promedio_laboratorios = 0;
-        for (int j = 0; j < numero_laboratorios; j++){
-
-            contador_laboratorios +=1;
-            cout << "Nota " << contador_laboratorios <<  " laboratorio " << i + 1 << ": "  ;
-            cin >> nota_laboratorio;
-            promedio_laboratorios += nota_laboratorio;
 
         }
 
